@@ -33,5 +33,14 @@
     "bundle": {
       "patch": "./cordis.patch.yml"
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nannan-first/dsh-continuity.git"
+  },
+  "homepage": "https://github.com/nannan-first/dsh-continuity#readme",
+  "bugs": {
+    "url": "https://github.com/nannan-first/dsh-continuity/issues"
+  },
+  "author": "nannan-first"
 }
