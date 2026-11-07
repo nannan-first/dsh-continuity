@@ -76,6 +76,8 @@ continuity_attest({})
 
 纯文本，随时能看、能删、能备份。换工作区就是另一份记录，互不串。
 
+`breakpoints.jsonl` 与 `ledger.jsonl` 超过 400 行会自动砍掉前面一半（只留最近的），长期使用不会把文件撑爆。
+
 ## 配置
 
 `cordis.patch.yml` 里可以关掉自动部分：
